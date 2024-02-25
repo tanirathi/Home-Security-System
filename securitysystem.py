@@ -1,3 +1,5 @@
+//This is the main code for face recognition Machine Learning Model implemented in Python.
+
 import cv2
 import numpy as np
 import face_recognition
